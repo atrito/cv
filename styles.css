@@ -1,0 +1,60 @@
+.title{
+    background-color: #fff;
+    font-family: 'News Cycle-Bold', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1;
+    color: black;
+    
+}
+
+.brand-bar-custom{
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.button-bar-custom{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.menu-bar{
+    background-color: #d5caba;
+}
+
+.nav-item{
+    margin-right: 3rem;
+}
+
+.menu-bar-links{
+    font-family: 'News Cycle-Bold', sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+.advertise-bar{
+    margin: 1% 0;
+    display: inline-block;
+}
+
+
+.ad-image{
+    width: 100%;
+    height: 100%;
+}
+
+.product-section{
+    text-align: center;
+}
+.product-bar{
+    margin: 1% 1px;
+    
+}
+
+.card-deck{
+    margin: 1% 0;
+}
+
+.product-image{
+    width: 100%;
+    height: 15vw;
+}
