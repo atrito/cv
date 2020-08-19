@@ -4,6 +4,7 @@
     font-size: 2.5rem;
     line-height: 1;
     color: black;
+    margin-bottom: 2px;
     
 }
 
@@ -12,13 +13,19 @@
     text-align: center;
 }
 
+
 .button-bar-custom{
     padding-top: 0;
     padding-bottom: 0;
 }
 
+.search-bar{
+    position: absolute;
+    right: 10px;
+}
 .menu-bar{
     background-color: #d5caba;
+    margin-top: 5px;
 }
 
 .nav-item{
@@ -44,6 +51,7 @@
 
 .product-section{
     text-align: center;
+    margin-bottom: 1rem;
 }
 .product-bar{
     margin: 1% 1px;
@@ -57,4 +65,16 @@
 .product-image{
     width: 100%;
     height: 15vw;
+}
+
+.footer-section{
+    background-color: black;
+    text-align: left;
+    color: white;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.footer-anchor{
+    color: white;
 }
